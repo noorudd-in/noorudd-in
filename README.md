@@ -1,6 +1,6 @@
 
 <!---------- Banner  ---------->
-[![MasterHead](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/322279895-fe054170-c69a-41d2-8e73-f7f239ebc046.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240907%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240907T095758Z&X-Amz-Expires=300&X-Amz-Signature=4b4a4047fbadcda7c1636de4fae12aa738a426b25ee8fea9369bc6be3733ef12&X-Amz-SignedHeaders=host&actor_id=67837783&key_id=0&repo_id=515827300)](https://noorudd.in)
+[![MasterHead](https://res.cloudinary.com/dfwyvvvdp/image/upload/v1726419527/PORTFOLIO_d1npaw.png)](https://noorudd.in)
 
 <!---------- Social Links  ---------->
 <div align="center">
